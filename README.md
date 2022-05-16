@@ -4,5 +4,5 @@
 https://vm.tiktok.com/ZMLc3nX2T/?k=1
 # Diagrama de solución
 https://ibb.co/VvXMSQr
-# Diagrama de solución
+# Link de implementación
 https://github.com/AizaZhiora/Soonar

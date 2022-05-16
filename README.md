@@ -6,3 +6,5 @@ https://vm.tiktok.com/ZMLc3nX2T/?k=1
 https://ibb.co/VvXMSQr
 # Link de implementación
 https://github.com/AizaZhiora/Soonar
+Github Pages
+https://aizazhiora.github.io/Soonar/
